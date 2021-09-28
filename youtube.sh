@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/use/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 # code by Polygon
 # napa lu liat liat kontol babi
 # mau recode ya bangsat
