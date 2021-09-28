@@ -15,5 +15,6 @@
 [ > ] chmod +x youtube.sh
 [ > ] ./youtube.sh
 ```
+Sosmed ⬇
 
-[youtube saya](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
+[youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
