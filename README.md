@@ -9,7 +9,7 @@
 [ > ] pkg install shc && pip3 install youtube-dl
 [ > ] gem install lolcat
 [ > ] apt-get install git
-[ > ] git clone https://Bayu12345677/p
+[ > ] git clone https://Bayu12345677/youtube-dl
 [ > ] cd p
 [ > ] cp -f youtube.sh. /data/data/com.termux/files/home
 [ > ] chmod +x youtube.sh
