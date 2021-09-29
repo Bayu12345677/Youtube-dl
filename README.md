@@ -1,6 +1,6 @@
 # how to use
 
-```php
+```dart
 [ > ] pkg update && pkg upgrade
 [ > ] pkg install perl && pkg install pip
 [ > ] pkg install pip3 && pkg install gem
