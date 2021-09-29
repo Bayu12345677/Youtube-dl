@@ -1,6 +1,6 @@
 # how to use
 
-```ruby
+```php
 [ > ] pkg update && pkg upgrade
 [ > ] pkg install perl && pkg install pip
 [ > ] pkg install pip3 && pkg install gem
